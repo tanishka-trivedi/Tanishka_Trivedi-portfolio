@@ -1,4 +1,4 @@
-# Hi, I'm Tanishka Trivedi 👋
+# Hi, I'm Tanishka Trivedi
 
 I'm a second-year **Electrical Engineering student at IIT Jodhpur**, passionate about building things that sit at the intersection of hardware and software. From programming microcontrollers to designing version-control systems from scratch — I like problems that demand both logical thinking and hands-on execution.
 
